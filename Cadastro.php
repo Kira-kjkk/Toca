@@ -1,4 +1,5 @@
 <?php
+
 echo("Salvando no banco");
 $nome = $_POST['nome'];
 $data_aniversario = $_POST['data'];
