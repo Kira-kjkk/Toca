@@ -70,7 +70,7 @@ async function validarFormulario(event) {
     });
 
     if (isConfirmed) {
-        // window.location.href = "Biblioteca.html";
+        window.location.href = "Cadastro.php";
     }
 }
 
